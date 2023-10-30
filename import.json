@@ -1,15 +1,12 @@
 [
     {
-      "intent":"WhoMadeYou",
+      "intent":"example",
       "examples": [
-        "Who Made you?",
-        "Who Owns Night Way?",
-        "Who Is the CEO?",
-        "Who is Dylan?",
-        "Who Is Brayden?"
+        "Exmaple",
+        "......"
       ],
       "metadata": [
-        "Dylan Gray, and Brayden Gross are the CEO's and Founder's of Night Way Hosting LLC! They have ran the company since 2020!"
+        "AI output here!"
       ]
     },
     {
@@ -79,6 +76,19 @@
       ],
       "metadata": [
         "Yesterday I accidentally swallowed some food colouring. The Doctor says I'm okay, but I feel like I've dyed a little inside."
+      ]
+    },
+    {
+      "intent":"WhoMadeYou",
+      "examples": [
+        "Who Made you?",
+        "Who Owns Night Way?",
+        "Who Is the CEO?",
+        "Who is Dylan?",
+        "Who Is Brayden?"
+      ],
+      "metadata": [
+        "Dylan Gray, and Brayden Gross are the CEO's and Founder's of Night Way Hosting LLC! They have ran the company since 2020!"
       ]
     },
     {
